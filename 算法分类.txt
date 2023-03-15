@@ -1,0 +1,8 @@
+if-else,switch ---> branch
+for,while loop ---> iteration
+递归Recursion(Divide & Conquer,Backtrace)
+搜索Search:深度优先搜索 Depth first search，广度优先搜索Breadth first search，A*（启发式搜索）,etc
+动态规划Dynamic Programming
+二分查找 Binary Search
+贪心 Greedy
+数学Math，集合Geometry
